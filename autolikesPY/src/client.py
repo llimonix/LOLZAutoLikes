@@ -8,7 +8,7 @@ from src.post_parser import parse_post
 
 class LZT:
     def __init__(self):
-        self.config = load_config(".env")
+        self.config = load_config("config.env")
         self.xf_token = ''
         self.headers = {
             'Cookie': '',
