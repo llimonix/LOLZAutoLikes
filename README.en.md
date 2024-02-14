@@ -7,7 +7,7 @@
   <h3 align="center">LOLZAutoLikes</h3>
 
   <p align="center">
-    Скрипт который автоматически лайкает новые сообщения в профилях пользователей на форуме LOLZTEAM
+    A script that automatically likes new posts in user profiles on the LOLZTEAM forum
     <br/>
     <br/>
     <a href="https://github.com/llimonix/LOLZAutoLikes/blob/main/README.md">RU README</a>
