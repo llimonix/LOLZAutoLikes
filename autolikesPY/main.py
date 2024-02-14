@@ -41,7 +41,7 @@ async def main(lzt, latest, u):
 
 
 if __name__ == "__main__":
-    config = load_config(".env")
+    config = load_config("config.env")
 
     logging.basicConfig(level=logging.DEBUG, format='%(asctime)s - %(levelname)s - %(message)s')
 
